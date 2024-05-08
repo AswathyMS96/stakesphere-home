@@ -7,6 +7,7 @@ vite-plugin-react-pages (vite-pages) is a React app framework powered by vite. I
 website creation, blog site ....!
 
 **Get Started**
+
 create-vite - Scaffolding Your First Vite Project.
 create-vitawind - Scaffolding for TailwindCSS project.
 create-electron-vite - Scaffolding Your Electron + Vite Project.
@@ -14,9 +15,12 @@ create-vite-app - Scaffolding Your Out Of The Box Vite Project.
 create-nx-workspace - Scaffolding a Nx + React + Vite + Vitest.
 bati - Scaffolding a Vike project.
 create-awesome-node-app - Scaffolding your project choosing between different templates.
+
 **Templates**
 
+
 **Vanilla**
+
 vite-vanilla-ts-lib-starter - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
 vite-tailwind-nojs-starter - NoJS Tailwind CSS starter template.
 vite-tailwind-stimulus-starter - Starter template for Tailwind CSS and Stimulus controllers.
@@ -30,6 +34,7 @@ vite-vanilla-library-template - Starter template TypeScript, ESLint, Vitest, Hus
 vite-alpine-template - Starter template for Alpine.
 
 **Vue 3**
+
 Vitesse - Opinionated starter template.
 vite-ts-tailwind-starter - TypeScript, Tailwind CSS, Cypress.io e2e tests + CI.
 vue-vben-admin - Background management template based on Vue3, Ant-Design-Vue, TypeScript.
@@ -60,12 +65,14 @@ vite-plugin-vue-style-bundler - Auto bundle Vue/sfc styles into JavaScript.
 celeris-web - Template based on Vite + Vue3 + TypeScript + Vue-Router + Pinia + Unocss + Naive UI + pnpm Monorepo.
 
 **Vue 2**
+
 vite-vue2-windicss-starter - Vue 2, Vue Router, Composition API, VueUse, Windi CSS and TypeScript.
 vite-vue2-ts-starter - Vue2 TypeScript starter template using vue-property-decorator, vue-router, Vuex.
 vite-vue2-ts-vuetify-starter - It is the above vite-vue2-ts-starter with Vuetify and its optimized settings. Includes basic templates.
 vitify-admin - Vuetify admin starter template with full TypeScript support and intellisense of Vuetify components.
 
 **React**
+
 Vitamin - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
 vite-template-react - A Create React App-like template.
 vitejs-template-react-rescript - React + ReScript.
