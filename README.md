@@ -5,6 +5,7 @@
 vite-plugin-react-pages (vite-pages) is a React app framework powered by vite. It is very suitable for:
 
 website creation, blog site ....!
+
 **Get Started**
 create-vite - Scaffolding Your First Vite Project.
 create-vitawind - Scaffolding for TailwindCSS project.
